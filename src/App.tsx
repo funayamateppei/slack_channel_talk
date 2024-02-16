@@ -14,7 +14,7 @@ function App() {
       language: "ja",
       profile: {
         name: "test user",
-        avatarUtl:
+        avatarUrl:
           "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fashionsnap.com%2Farticle%2F2023-05-30%2Fmiyoshirug-doraemon2%2F&psig=AOvVaw0rtSkI4-K_G6lEoSCf6yEU&ust=1708142400091000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDl5Lr8roQDFQAAAAAdAAAAABAH",
       },
     });
