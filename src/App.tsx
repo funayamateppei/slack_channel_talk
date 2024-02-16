@@ -15,7 +15,7 @@ function App() {
       profile: {
         name: "test user",
         avatarUrl:
-          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fashionsnap.com%2Farticle%2F2023-05-30%2Fmiyoshirug-doraemon2%2F&psig=AOvVaw0rtSkI4-K_G6lEoSCf6yEU&ust=1708142400091000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDl5Lr8roQDFQAAAAAdAAAAABAH",
+          "https://www.palcloset.jp/shared/pc_pal/event/typy/2019_doraemon/images/dora.png",
       },
     });
   }, []);
