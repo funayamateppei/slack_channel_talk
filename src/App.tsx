@@ -16,6 +16,7 @@ function App() {
         name: "test user",
         avatarUrl:
           "https://www.palcloset.jp/shared/pc_pal/event/typy/2019_doraemon/images/dora.png",
+        tenantName: "株式会社QUANDO",
       },
     });
   }, []);
